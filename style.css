@@ -1,0 +1,46 @@
+.carousel-caption h5{
+    color: rgb(245, 153, 245);
+
+}
+
+.carousel-caption p{
+    color: rgb(227, 174, 174);
+
+}
+
+.alert{ 
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+}
+
+.caps{
+    margin-left: 12px;
+    display: flex;
+    flex-direction: row;
+    align-items: center
+}
+
+.card img{
+   height: auto;
+   width: 150px;
+}
+
+.article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 12px;
+    background-color: rgb(27, 28, 28);
+    color: rgb(57, 234, 8);
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8px;
+    color:  rgb(0, 0, 0);
+    background-color: aquamarine;
+}
+
